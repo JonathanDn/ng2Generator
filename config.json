@@ -1,5 +1,4 @@
 {
     "componentsPath": ".",
-    "directivesPath": ".",
     "templatesPath": "./templates/"
 }
